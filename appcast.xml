@@ -3,6 +3,23 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.27</title>
+            <pubDate>Thu, 29 Oct 2026 19:31:19 -0400</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.1.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.27 — Settings, as a page</h3>
+<ul>
+<li><b>Settings opens in a tab.</b> ⌘, opens Settings as a page: sections on the left, tidy cards of settings, and Find a setting (⌘F) to jump straight to one.</li>
+<li><b>New settings.</b> Darken pages that stay light, the page as a card, roomier tabs, letters or site icons on tabs, tabs that give when pressed, the address on the tab you're on, how soon tabs sleep, a default page zoom, floating video when you leave Pane, ask where to save, and confirm before quitting.</li>
+<li><b>Passwords in Settings.</b> Open your saved passwords with Touch ID, search them, copy or delete one, and turn sign-in filling on or off.</li>
+<li><b>Updates.</b> Choose whether updates install on their own, and send feedback straight from About.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.27/Pane-1.1.27.zip" length="7500528" type="application/octet-stream" sparkle:edSignature="PCJjEY8NoyHmNapYoUuhagq1cyd5z5ARsd1Xity3y0A5C23vzERVDYn0aPhQHpC5ljDvjqryXg5WmHx6+EufCw=="/>
+        </item>
+        <item>
             <title>1.1.26</title>
             <pubDate>Thu, 29 Oct 2026 19:08:45 -0400</pubDate>
             <sparkle:version>38</sparkle:version>
@@ -33,23 +50,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.25/Pane-1.1.25.zip" length="7379209" type="application/octet-stream" sparkle:edSignature="7m5Ae7xCoLiUy68eQQkkQaIUeB2ANmlNnhj31LyfgyDEuijegX9Jbs4s3xc2FSxvxKf7OGx2Xzz6FdWlWyRUAA=="/>
-        </item>
-        <item>
-            <title>1.1.24</title>
-            <pubDate>Thu, 29 Oct 2026 18:40:04 -0400</pubDate>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>1.1.24</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.24 — A quieter look</h3>
-<ul>
-<li><b>Graphite and paper.</b> Pane drops its colors for clean whites, soft greys and ink — in light and dark.</li>
-<li><b>Glows made of light.</b> Instead of a rainbow, a single arc of light travels around the edge of what you're typing in, like daylight catching a pane of glass.</li>
-<li><b>A lit selection.</b> The tab you're on sits in a soft grey pill with a fine highlight along its top edge.</li>
-<li><b>A calmer New Tab page.</b> A soft pool of light from above, and nothing else in the way.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.24/Pane-1.1.24.zip" length="7379170" type="application/octet-stream" sparkle:edSignature="zR+SOeNM0jzEVvosiLao5ygzeWlctHbLxdJCDyoHltcFwhqt+HONIL10CUkcgdgM36AqTz7n0tUgy1XFpXM2CA=="/>
         </item>
     </channel>
 </rss>
