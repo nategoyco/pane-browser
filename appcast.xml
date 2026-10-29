@@ -3,6 +3,25 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.23</title>
+            <pubDate>Thu, 29 Oct 2026 18:23:19 -0400</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.1.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.23 — Tidier pages, quicker answers</h3>
+<ul>
+<li><b>Hide anything.</b> ⇧⌘H, then click a cookie banner, pop-up or sidebar. It stays hidden on that site. Undo, or bring it all back from the Page menu.</li>
+<li><b>Answers in the address bar.</b> Type a sum like 12*4.5 or 15% of 80 and the answer comes first. Return copies it.</li>
+<li><b>Search a site directly.</b> Type yt, gh, wiki, maps, amazon or reddit, a space, then what you're after.</li>
+<li><b>Preview beside.</b> ⇧-click a link, then ⇧⌘O to keep it next to your page in split view.</li>
+<li><b>Paste and Go.</b> ⇧⌘V opens the copied link, or searches for the copied text.</li>
+<li><b>Jump between spaces.</b> ⌃1–⌃9 goes to a space; ⌃⇧1–⌃⇧9 sends the tab there.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.23/Pane-1.1.23.zip" length="7378840" type="application/octet-stream" sparkle:edSignature="9+a7/5TpGi99UalupEtOXBENlDPzKjoMKlNwKPWVMjVA3FHfrcC65w0YKoIN47uwP/+feMgBPYpSmWR4tfPOBQ=="/>
+        </item>
+        <item>
             <title>1.1.22</title>
             <pubDate>Thu, 01 Oct 2026 12:29:28 -0400</pubDate>
             <sparkle:version>34</sparkle:version>
@@ -30,24 +49,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.21/Pane-1.1.21.zip" length="7258718" type="application/octet-stream" sparkle:edSignature="EBqJIwS7NhtQvNPie0FiZqRw3pQr254g/BpTtGgRYHqyaMvltaSvxyS2ndYdeNYdMgcxCiDEYa9ndp1ZCXm1AQ=="/>
-        </item>
-        <item>
-            <title>1.1.20</title>
-            <pubDate>Thu, 01 Oct 2026 01:49:33 -0400</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.1.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.20 — Privacy &amp; Safety</h3>
-<ul>
-<li><b>Private windows</b> (⇧⌘N): no history, nothing saved, and every cookie and sign-in is forgotten when you close the window.</li>
-<li><b>Tracking tags removed from links.</b> utm_, fbclid, gclid and friends come off when you click or copy a link.</li>
-<li><b>A safer assistant.</b> Pages and search results are read as information, never as instructions, answers have no hidden links, and research happens in a signed-out session.</li>
-<li>OpenAI conversations are marked not to be stored.</li>
-<li>Settings › Privacy &amp; Safety shows every protection at a glance.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.20/Pane-1.1.20.zip" length="4310885" type="application/octet-stream" sparkle:edSignature="P8SWeBjJhNzv3dv2g7X+p5pHxQTZ4MFmSKCVI9PwekjsmkWg9Fs/PHn7cE2qxYw2Id8/J+Ww6yz9C7ItLRVKCg=="/>
         </item>
     </channel>
 </rss>
