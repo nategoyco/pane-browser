@@ -3,6 +3,22 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.25</title>
+            <pubDate>Thu, 29 Oct 2026 18:49:08 -0400</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.1.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.25 — Lighter type</h3>
+<ul>
+<li><b>Quieter type.</b> Text and icons are a step lighter everywhere, in plain system type.</li>
+<li><b>Tabs that read at a glance.</b> The tab you're on is in ink; the rest sit back in grey.</li>
+<li><b>A simpler sidebar.</b> The space name is smaller, so your tabs come first.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.25/Pane-1.1.25.zip" length="7379209" type="application/octet-stream" sparkle:edSignature="7m5Ae7xCoLiUy68eQQkkQaIUeB2ANmlNnhj31LyfgyDEuijegX9Jbs4s3xc2FSxvxKf7OGx2Xzz6FdWlWyRUAA=="/>
+        </item>
+        <item>
             <title>1.1.24</title>
             <pubDate>Thu, 29 Oct 2026 18:40:04 -0400</pubDate>
             <sparkle:version>36</sparkle:version>
@@ -37,21 +53,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.23/Pane-1.1.23.zip" length="7378840" type="application/octet-stream" sparkle:edSignature="9+a7/5TpGi99UalupEtOXBENlDPzKjoMKlNwKPWVMjVA3FHfrcC65w0YKoIN47uwP/+feMgBPYpSmWR4tfPOBQ=="/>
-        </item>
-        <item>
-            <title>1.1.22</title>
-            <pubDate>Thu, 01 Oct 2026 12:29:28 -0400</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>1.1.22</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.22 — Updates, the easy way</h3>
-<ul>
-<li><b>One-click updates.</b> From now on, a little note appears at the bottom left when there's a new Pane. Click it and Pane updates and reopens.</li>
-<li><b>What's new, right in Pane.</b> After every update, a page shows what changed. Find it anytime in Help › What's New in Pane.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.22/Pane-1.1.22.zip" length="7344444" type="application/octet-stream" sparkle:edSignature="Rtix7gyY+OCYs1mOeub/5OTnCYl4cQgYXZSQrutcvRsf1wA7JKz/mjx2x4plVg5n7R4hWyRqzw0CI+uYNpY9Aw=="/>
         </item>
     </channel>
 </rss>
