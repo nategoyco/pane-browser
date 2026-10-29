@@ -3,6 +3,24 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.28</title>
+            <pubDate>Thu, 29 Oct 2026 19:50:01 -0400</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.1.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.28 — Glass</h3>
+<ul>
+<li><b>A see-through window.</b> Your wallpaper shows softly through the sidebar, and the page floats beside it as a rounded card.</li>
+<li><b>Round glass buttons.</b> Sidebar, back and reload sit as glass buttons by the window controls; with the sidebar hidden, the bar above the page centers the address.</li>
+<li><b>Page options.</b> The sliders in the address field hold bookmark, zoom, reader, pause ads, hide an element, mute and save as PDF.</li>
+<li><b>A new bottom row.</b> A glass menu for new windows, your spaces, History, What's New and Settings; space dots in the middle; downloads on the right.</li>
+<li><b>Fixed: "Playing" when nothing was.</b> The sidebar only shows a playing tab when you can actually hear it.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.28/Pane-1.1.28.zip" length="7540159" type="application/octet-stream" sparkle:edSignature="fjf3KxypUmHsUJsDnlKxfp1YkQCtXfLhgE2Wcs3CB7tcmhxK3YiDecjRSCbARlrImuxOf9F5g6yKxoTli5yACw=="/>
+        </item>
+        <item>
             <title>1.1.27</title>
             <pubDate>Thu, 29 Oct 2026 19:31:19 -0400</pubDate>
             <sparkle:version>39</sparkle:version>
@@ -34,22 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.26/Pane-1.1.26.zip" length="7374790" type="application/octet-stream" sparkle:edSignature="2bLAqkm2nUx3BLTgMfnPN3CF5Vjj4fOG3WxxXcD5DjtHO6iIPiJ8gjW00MZNNFayK78rgQqNhQ0xbRWFJw1xBw=="/>
-        </item>
-        <item>
-            <title>1.1.25</title>
-            <pubDate>Thu, 29 Oct 2026 18:49:08 -0400</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.1.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.25 — Lighter type</h3>
-<ul>
-<li><b>Quieter type.</b> Text and icons are a step lighter everywhere, in plain system type.</li>
-<li><b>Tabs that read at a glance.</b> The tab you're on is in ink; the rest sit back in grey.</li>
-<li><b>A simpler sidebar.</b> The space name is smaller, so your tabs come first.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.25/Pane-1.1.25.zip" length="7379209" type="application/octet-stream" sparkle:edSignature="7m5Ae7xCoLiUy68eQQkkQaIUeB2ANmlNnhj31LyfgyDEuijegX9Jbs4s3xc2FSxvxKf7OGx2Xzz6FdWlWyRUAA=="/>
         </item>
     </channel>
 </rss>
