@@ -3,6 +3,22 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.26</title>
+            <pubDate>Thu, 29 Oct 2026 19:08:45 -0400</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.1.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.26 — One flat window</h3>
+<ul>
+<li><b>Nothing in the way.</b> The window, sidebar and page are one plain sheet, with a fine line between the sidebar and the page.</li>
+<li><b>The page fills the window.</b> No toolbar above it: back, forward and reload sit next to the window buttons, and ⌘L drops the address bar from the top.</li>
+<li><b>Calmer details.</b> Flat grey selection, smaller pinned tiles, and a plain loading line.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.26/Pane-1.1.26.zip" length="7374790" type="application/octet-stream" sparkle:edSignature="2bLAqkm2nUx3BLTgMfnPN3CF5Vjj4fOG3WxxXcD5DjtHO6iIPiJ8gjW00MZNNFayK78rgQqNhQ0xbRWFJw1xBw=="/>
+        </item>
+        <item>
             <title>1.1.25</title>
             <pubDate>Thu, 29 Oct 2026 18:49:08 -0400</pubDate>
             <sparkle:version>37</sparkle:version>
@@ -34,25 +50,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.24/Pane-1.1.24.zip" length="7379170" type="application/octet-stream" sparkle:edSignature="zR+SOeNM0jzEVvosiLao5ygzeWlctHbLxdJCDyoHltcFwhqt+HONIL10CUkcgdgM36AqTz7n0tUgy1XFpXM2CA=="/>
-        </item>
-        <item>
-            <title>1.1.23</title>
-            <pubDate>Thu, 29 Oct 2026 18:23:19 -0400</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.1.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.23 — Tidier pages, quicker answers</h3>
-<ul>
-<li><b>Hide anything.</b> ⇧⌘H, then click a cookie banner, pop-up or sidebar. It stays hidden on that site. Undo, or bring it all back from the Page menu.</li>
-<li><b>Answers in the address bar.</b> Type a sum like 12*4.5 or 15% of 80 and the answer comes first. Return copies it.</li>
-<li><b>Search a site directly.</b> Type yt, gh, wiki, maps, amazon or reddit, a space, then what you're after.</li>
-<li><b>Preview beside.</b> ⇧-click a link, then ⇧⌘O to keep it next to your page in split view.</li>
-<li><b>Paste and Go.</b> ⇧⌘V opens the copied link, or searches for the copied text.</li>
-<li><b>Jump between spaces.</b> ⌃1–⌃9 goes to a space; ⌃⇧1–⌃⇧9 sends the tab there.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.23/Pane-1.1.23.zip" length="7378840" type="application/octet-stream" sparkle:edSignature="9+a7/5TpGi99UalupEtOXBENlDPzKjoMKlNwKPWVMjVA3FHfrcC65w0YKoIN47uwP/+feMgBPYpSmWR4tfPOBQ=="/>
         </item>
     </channel>
 </rss>
