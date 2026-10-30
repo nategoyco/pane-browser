@@ -3,6 +3,27 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.34</title>
+            <pubDate>Fri, 30 Oct 2026 11:08:45 -0400</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.1.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.34 — Video, done properly</h3>
+<ul>
+<li><b>Picture in picture that works.</b> Float any video with the button by the address, or ⌃⌘P, and it stays with you. Leave a playing tab and it floats on its own; come back and it lands in the page.</li>
+<li><b>Full screen that works.</b> Sites' own full screen buttons now do what they say, and ⌥⌘F takes the page's video full screen from anywhere.</li>
+<li><b>Video controls.</b> Site settings has picture in picture, full screen and playback speed when a page has a video. Embedded players count too.</li>
+<li><b>A bar above the page.</b> With the address on top, the bar takes the site's color and the site starts below it, so nothing is covered. It slides up as you scroll down.</li>
+<li><b>The address bar opens in place.</b> Click it and that same bar expands, with no second one appearing.</li>
+<li><b>A new swipe.</b> Two fingers sideways bring in a glass circle with an arrow that follows you until it's ready to go back or forward.</li>
+<li><b>New tab means the New Tab page.</b> Add Tab opens the page, not a pop-out.</li>
+<li><b>Dark glass What's New.</b> This window, in dark Liquid Glass.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.34/Pane-1.1.34.zip" length="4906013" type="application/octet-stream" sparkle:edSignature="ze1BNarn0odlmdDRYj+uFqUQ2x84ARI3jmHZqGP9cny8dbNxvornV1UQHxU1uNi19P+Z8VmWNr6OCie00FhIAA=="/>
+        </item>
+        <item>
             <title>1.1.33</title>
             <pubDate>Fri, 30 Oct 2026 09:51:11 -0400</pubDate>
             <sparkle:version>45</sparkle:version>
@@ -34,24 +55,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.32/Pane-1.1.32.zip" length="4878821" type="application/octet-stream" sparkle:edSignature="OxMj7Mu4hEQNC3Jx2meWiba1nTFtqwC6VclhtcX2/MA8cBLcOqZmLFjx3d5yNmQc0IOLwMZfESZ7LzWgeBlgAQ=="/>
-        </item>
-        <item>
-            <title>1.1.31</title>
-            <pubDate>Thu, 29 Oct 2026 21:05:12 -0400</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>1.1.31</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.31 — Press to peek</h3>
-<ul>
-<li><b>Force click a link</b> to see it in a preview that grows out of where you pressed. Shift-click still works too.</li>
-<li><b>Site settings.</b> The slider button in the address opens a glass panel for the site you're on: whether it's secure, switches for sound, ad blocking, pop-out video and separate logins, its zoom, and its cookies.</li>
-<li><b>A tidier sidebar.</b> The space's name sits under the address, your initials sit at the bottom, and hovering a tab is instant.</li>
-<li><b>A new welcome.</b> Meet Pane fills the window, follows light and dark, brings your tabs over from Arc, Chrome, Dia, Helium and more, and shows how a new tab really works.</li>
-<li><b>A new icon.</b></li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.31/Pane-1.1.31.zip" length="4878215" type="application/octet-stream" sparkle:edSignature="uO+nnhtUqNVsgFR9/0pz+BqOiTTyagPSXgvIyj9jGamuzr4DkNiBECr2+Kn/15NiDfHVzDlmOsO2Q6nnF7odDg=="/>
         </item>
     </channel>
 </rss>
