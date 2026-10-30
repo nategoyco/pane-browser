@@ -3,6 +3,20 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.32</title>
+            <pubDate>Thu, 29 Oct 2026 21:11:55 -0400</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>1.1.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.32 — Smooth sidebar</h3>
+<ul>
+<li><b>Hiding the sidebar is one motion.</b> The sidebar slides away as the page widens to fill its place, and the top bar glides down in step. Showing it again reverses the same way.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.32/Pane-1.1.32.zip" length="4878821" type="application/octet-stream" sparkle:edSignature="OxMj7Mu4hEQNC3Jx2meWiba1nTFtqwC6VclhtcX2/MA8cBLcOqZmLFjx3d5yNmQc0IOLwMZfESZ7LzWgeBlgAQ=="/>
+        </item>
+        <item>
             <title>1.1.31</title>
             <pubDate>Thu, 29 Oct 2026 21:05:12 -0400</pubDate>
             <sparkle:version>43</sparkle:version>
@@ -33,24 +47,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.30/Pane-1.1.30.zip" length="7591018" type="application/octet-stream" sparkle:edSignature="5F2gOnu0yl4Cl8nYTRDhDY42bBAl7HL6y2fBY9Ph379Dd3PJjp8vCcQMRtXlp0fIj4eSPbPA51gd9SQ4qmcbAw=="/>
-        </item>
-        <item>
-            <title>1.1.29</title>
-            <pubDate>Thu, 29 Oct 2026 20:17:30 -0400</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>1.1.29</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.29 — Moves with you</h3>
-<ul>
-<li><b>Controls that step aside.</b> With the sidebar showing, back, the address and reload float over the page in glass. Scroll down and they blur away, leaving just the site's name; scroll up and they're back. Page options › Move Controls to Sidebar puts them where they were.</li>
-<li><b>A new New Tab page.</b> See-through glass with one search box, a + for quick actions, dictation, and a Top Sites chip. New windows open on it too.</li>
-<li><b>Liquid Glass search.</b> The New Tab box and its suggestions are one sheet of glass that springs open beneath it.</li>
-<li><b>Glass tabs.</b> The tab you're on, the address field and pinned tiles are Liquid Glass pills.</li>
-<li><b>More room.</b> The sidebar sits further from the window's edge.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.29/Pane-1.1.29.zip" length="7590455" type="application/octet-stream" sparkle:edSignature="bXqQCvlIE1EFmLr06PL65xxWak/nsAC234xGYbRPsNIFps8NtRPttEoFfdPc3W38USE9FUtOyHnA4UhalW1nAQ=="/>
         </item>
     </channel>
 </rss>
