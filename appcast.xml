@@ -3,6 +3,20 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.30</title>
+            <pubDate>Thu, 29 Oct 2026 20:22:26 -0400</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.1.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.30 — Tidy menu</h3>
+<ul>
+<li><b>No more wrapped names.</b> The glass menu at the bottom of the sidebar keeps every label on one line, and grows a little wider than a narrow sidebar when it needs to.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.30/Pane-1.1.30.zip" length="7591018" type="application/octet-stream" sparkle:edSignature="5F2gOnu0yl4Cl8nYTRDhDY42bBAl7HL6y2fBY9Ph379Dd3PJjp8vCcQMRtXlp0fIj4eSPbPA51gd9SQ4qmcbAw=="/>
+        </item>
+        <item>
             <title>1.1.29</title>
             <pubDate>Thu, 29 Oct 2026 20:17:30 -0400</pubDate>
             <sparkle:version>41</sparkle:version>
@@ -37,23 +51,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.28/Pane-1.1.28.zip" length="7540159" type="application/octet-stream" sparkle:edSignature="fjf3KxypUmHsUJsDnlKxfp1YkQCtXfLhgE2Wcs3CB7tcmhxK3YiDecjRSCbARlrImuxOf9F5g6yKxoTli5yACw=="/>
-        </item>
-        <item>
-            <title>1.1.27</title>
-            <pubDate>Thu, 29 Oct 2026 19:31:19 -0400</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>1.1.27</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.27 — Settings, as a page</h3>
-<ul>
-<li><b>Settings opens in a tab.</b> ⌘, opens Settings as a page: sections on the left, tidy cards of settings, and Find a setting (⌘F) to jump straight to one.</li>
-<li><b>New settings.</b> Darken pages that stay light, the page as a card, roomier tabs, letters or site icons on tabs, tabs that give when pressed, the address on the tab you're on, how soon tabs sleep, a default page zoom, floating video when you leave Pane, ask where to save, and confirm before quitting.</li>
-<li><b>Passwords in Settings.</b> Open your saved passwords with Touch ID, search them, copy or delete one, and turn sign-in filling on or off.</li>
-<li><b>Updates.</b> Choose whether updates install on their own, and send feedback straight from About.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.27/Pane-1.1.27.zip" length="7500528" type="application/octet-stream" sparkle:edSignature="PCJjEY8NoyHmNapYoUuhagq1cyd5z5ARsd1Xity3y0A5C23vzERVDYn0aPhQHpC5ljDvjqryXg5WmHx6+EufCw=="/>
         </item>
     </channel>
 </rss>
