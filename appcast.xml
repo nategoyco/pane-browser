@@ -3,6 +3,25 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.33</title>
+            <pubDate>Fri, 30 Oct 2026 09:51:11 -0400</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.1.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.33 — Just the site</h3>
+<ul>
+<li><b>Nothing above the page.</b> Sites run right to the top, with the glass controls floating over them, whether the sidebar is open or closed. The coloured bar is gone.</li>
+<li><b>Address in the sidebar, if you like.</b> Settings › Appearance › Address and controls puts back, forward, reload and the address at the top of the sidebar instead.</li>
+<li><b>A real slide.</b> The sidebar and your tabs slide out to the left together as the page grows, with no fading.</li>
+<li><b>Frosted messages.</b> The little messages at the bottom of the page are frosted Liquid Glass.</li>
+<li><b>A simpler sidebar.</b> The space's name is gone from above your tabs. To rename a space or change its icon and color, use the pencil next to it in the bottom-left menu.</li>
+<li><b>The new logo everywhere.</b> What's New, Settings and your member card all show it now.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.33/Pane-1.1.33.zip" length="4841278" type="application/octet-stream" sparkle:edSignature="JdV7MmgAtOTMEgNLHQ6fQg7B0U6nix0MrC+VBgl50lE2ZDxwKJ3NqQJbn68/g1Gw2cFyYwHdmZqnOw7xFlJ7AQ=="/>
+        </item>
+        <item>
             <title>1.1.32</title>
             <pubDate>Thu, 29 Oct 2026 21:11:55 -0400</pubDate>
             <sparkle:version>44</sparkle:version>
@@ -33,20 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.31/Pane-1.1.31.zip" length="4878215" type="application/octet-stream" sparkle:edSignature="uO+nnhtUqNVsgFR9/0pz+BqOiTTyagPSXgvIyj9jGamuzr4DkNiBECr2+Kn/15NiDfHVzDlmOsO2Q6nnF7odDg=="/>
-        </item>
-        <item>
-            <title>1.1.30</title>
-            <pubDate>Thu, 29 Oct 2026 20:22:26 -0400</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>1.1.30</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.30 — Tidy menu</h3>
-<ul>
-<li><b>No more wrapped names.</b> The glass menu at the bottom of the sidebar keeps every label on one line, and grows a little wider than a narrow sidebar when it needs to.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.30/Pane-1.1.30.zip" length="7591018" type="application/octet-stream" sparkle:edSignature="5F2gOnu0yl4Cl8nYTRDhDY42bBAl7HL6y2fBY9Ph379Dd3PJjp8vCcQMRtXlp0fIj4eSPbPA51gd9SQ4qmcbAw=="/>
         </item>
     </channel>
 </rss>
