@@ -3,6 +3,24 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.29</title>
+            <pubDate>Thu, 29 Oct 2026 20:17:30 -0400</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.1.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.29 — Moves with you</h3>
+<ul>
+<li><b>Controls that step aside.</b> With the sidebar showing, back, the address and reload float over the page in glass. Scroll down and they blur away, leaving just the site's name; scroll up and they're back. Page options › Move Controls to Sidebar puts them where they were.</li>
+<li><b>A new New Tab page.</b> See-through glass with one search box, a + for quick actions, dictation, and a Top Sites chip. New windows open on it too.</li>
+<li><b>Liquid Glass search.</b> The New Tab box and its suggestions are one sheet of glass that springs open beneath it.</li>
+<li><b>Glass tabs.</b> The tab you're on, the address field and pinned tiles are Liquid Glass pills.</li>
+<li><b>More room.</b> The sidebar sits further from the window's edge.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.29/Pane-1.1.29.zip" length="7590455" type="application/octet-stream" sparkle:edSignature="bXqQCvlIE1EFmLr06PL65xxWak/nsAC234xGYbRPsNIFps8NtRPttEoFfdPc3W38USE9FUtOyHnA4UhalW1nAQ=="/>
+        </item>
+        <item>
             <title>1.1.28</title>
             <pubDate>Thu, 29 Oct 2026 19:50:01 -0400</pubDate>
             <sparkle:version>40</sparkle:version>
@@ -36,22 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.27/Pane-1.1.27.zip" length="7500528" type="application/octet-stream" sparkle:edSignature="PCJjEY8NoyHmNapYoUuhagq1cyd5z5ARsd1Xity3y0A5C23vzERVDYn0aPhQHpC5ljDvjqryXg5WmHx6+EufCw=="/>
-        </item>
-        <item>
-            <title>1.1.26</title>
-            <pubDate>Thu, 29 Oct 2026 19:08:45 -0400</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>1.1.26</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.26 — One flat window</h3>
-<ul>
-<li><b>Nothing in the way.</b> The window, sidebar and page are one plain sheet, with a fine line between the sidebar and the page.</li>
-<li><b>The page fills the window.</b> No toolbar above it: back, forward and reload sit next to the window buttons, and ⌘L drops the address bar from the top.</li>
-<li><b>Calmer details.</b> Flat grey selection, smaller pinned tiles, and a plain loading line.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.26/Pane-1.1.26.zip" length="7374790" type="application/octet-stream" sparkle:edSignature="2bLAqkm2nUx3BLTgMfnPN3CF5Vjj4fOG3WxxXcD5DjtHO6iIPiJ8gjW00MZNNFayK78rgQqNhQ0xbRWFJw1xBw=="/>
         </item>
     </channel>
 </rss>
