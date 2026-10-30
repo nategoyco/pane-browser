@@ -3,6 +3,21 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.36</title>
+            <pubDate>Fri, 30 Oct 2026 13:37:54 -0400</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.1.36</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.36 — Tabs stay awake, swipe flipped</h3>
+<ul>
+<li><b>Tabs stay awake when you leave them.</b> 1.1.35 put tabs to sleep too soon. Now a tab sleeps only after you've been away for the time set in Settings › Tabs, or when your Mac is really short of memory. Recent tabs switch instantly again, so memory stays higher until tabs start to sleep.</li>
+<li><b>Swipe direction flipped.</b> Two fingers right now goes forward and two fingers left goes back. The glass arrow moves with your fingers.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.36/Pane-1.1.36.zip" length="4913932" type="application/octet-stream" sparkle:edSignature="fMlJnExVV8hzkn8gALEai3y0a7UBAsLtlLXmNVt17C+4yJW/Xt7KDPCGKZMkbqzmvCSUl5/ip8gbojMhT4pKBw=="/>
+        </item>
+        <item>
             <title>1.1.35</title>
             <pubDate>Fri, 30 Oct 2026 12:19:34 -0400</pubDate>
             <sparkle:version>47</sparkle:version>
@@ -40,25 +55,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.34/Pane-1.1.34.zip" length="4906013" type="application/octet-stream" sparkle:edSignature="ze1BNarn0odlmdDRYj+uFqUQ2x84ARI3jmHZqGP9cny8dbNxvornV1UQHxU1uNi19P+Z8VmWNr6OCie00FhIAA=="/>
-        </item>
-        <item>
-            <title>1.1.33</title>
-            <pubDate>Fri, 30 Oct 2026 09:51:11 -0400</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>1.1.33</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.33 — Just the site</h3>
-<ul>
-<li><b>Nothing above the page.</b> Sites run right to the top, with the glass controls floating over them, whether the sidebar is open or closed. The coloured bar is gone.</li>
-<li><b>Address in the sidebar, if you like.</b> Settings › Appearance › Address and controls puts back, forward, reload and the address at the top of the sidebar instead.</li>
-<li><b>A real slide.</b> The sidebar and your tabs slide out to the left together as the page grows, with no fading.</li>
-<li><b>Frosted messages.</b> The little messages at the bottom of the page are frosted Liquid Glass.</li>
-<li><b>A simpler sidebar.</b> The space's name is gone from above your tabs. To rename a space or change its icon and color, use the pencil next to it in the bottom-left menu.</li>
-<li><b>The new logo everywhere.</b> What's New, Settings and your member card all show it now.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.33/Pane-1.1.33.zip" length="4841278" type="application/octet-stream" sparkle:edSignature="JdV7MmgAtOTMEgNLHQ6fQg7B0U6nix0MrC+VBgl50lE2ZDxwKJ3NqQJbn68/g1Gw2cFyYwHdmZqnOw7xFlJ7AQ=="/>
         </item>
     </channel>
 </rss>
