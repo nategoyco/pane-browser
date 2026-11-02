@@ -3,6 +3,22 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.42</title>
+            <pubDate>Mon, 02 Nov 2026 16:04:16 -0500</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>1.1.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.42 — Meet calls float</h3>
+<ul>
+<li><b>Your call, in the corner.</b> Switch away from a Google Meet call (or press ⌃⌘P) and the whole call floats in a small window that stays on top, live, on every desktop.</li>
+<li><b>Controls right there.</b> Hover it to mute, turn your camera off, raise your hand or leave. Drag the top edge to move it, the edges to resize.</li>
+<li><b>Back in one click.</b> The button in the corner, or the call's tab, puts it back where it was. Leaving the call does too.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.42/Pane-1.1.42.zip" length="4984854" type="application/octet-stream" sparkle:edSignature="ms0vlqtOgXBrYy9Hb8OKVEfPJsJrLDDpU1nGcnm4j4nSiCrpleNKa3sGegIlVJteHS7Qhh5wt7gG+AdpDx1vCg=="/>
+        </item>
+        <item>
             <title>1.1.41</title>
             <pubDate>Mon, 02 Nov 2026 13:22:30 -0500</pubDate>
             <sparkle:version>53</sparkle:version>
@@ -32,22 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.40/Pane-1.1.40.zip" length="4958836" type="application/octet-stream" sparkle:edSignature="goHPYJfaeiuIdg73QEJmByNoi155PqpkXCDdd05uqzd2K/+WKz7tny4r4J1ZbJ4iuudx8eXvcTwBe19hHo//CA=="/>
-        </item>
-        <item>
-            <title>1.1.39</title>
-            <pubDate>Mon, 02 Nov 2026 10:58:21 -0500</pubDate>
-            <sparkle:version>51</sparkle:version>
-            <sparkle:shortVersionString>1.1.39</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.39 — A lighter Ask</h3>
-<ul>
-<li><b>Ask no longer slows your Mac.</b> The glow and animations while Pane answers now take a fraction of the work, so the rest of your Mac stays quick while it writes.</li>
-<li><b>Answers start sooner.</b> The on-device model starts loading the moment you open the panel.</li>
-<li><b>Smoother text.</b> Answers flow in without the stutter on long replies.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.39/Pane-1.1.39.zip" length="4949748" type="application/octet-stream" sparkle:edSignature="BpMSO2C5mqT8MEB4PZT+yhn6DIDXXnaR2yTRtdkGYTtI8O9XMf1nwfZegWie49jMW238aetoZeEuCaGBngaqAQ=="/>
         </item>
     </channel>
 </rss>
