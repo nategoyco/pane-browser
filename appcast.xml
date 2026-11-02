@@ -3,6 +3,25 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.37</title>
+            <pubDate>Mon, 02 Nov 2026 10:21:25 -0500</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>1.1.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.37 — A real browser</h3>
+<ul>
+<li><b>Sign in with Google, Apple and more.</b> Sign-in popups now open in their own small window, linked to the site that opened them, so the login comes back to the page and the popup closes itself.</li>
+<li><b>Page dialogs and uploads.</b> Sites' alerts, confirmations and questions now show up, and “Choose File” buttons open the file picker.</li>
+<li><b>Drag and drop.</b> Drop links or files on the sidebar to open them in new tabs, or on a new tab to open them there. PDFs, pictures and saved pages open right in Pane.</li>
+<li><b>Print.</b> ⌘P prints the page.</li>
+<li><b>Sites that ask for a password</b> now show a sign-in sheet instead of failing.</li>
+<li><b>Camera, microphone and location.</b> Video calls, voice messages and maps can ask to use them, as in Safari.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.37/Pane-1.1.37.zip" length="4941198" type="application/octet-stream" sparkle:edSignature="tH1jCxmTXe/kNL2WKG6aNyaP0/UY+TxcOk/COUK9JTDcXsGg7naBuAYhksCC1Rvg48LOBr7TA7NPVGPCWjbcCw=="/>
+        </item>
+        <item>
             <title>1.1.36</title>
             <pubDate>Fri, 30 Oct 2026 13:37:54 -0400</pubDate>
             <sparkle:version>48</sparkle:version>
@@ -34,27 +53,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.35/Pane-1.1.35.zip" length="4915959" type="application/octet-stream" sparkle:edSignature="7cEwI5w4mGNpe6zQ0EmpU6lyiXWdGeH/s4xdQ0TyqftdM7uJHy5NNv5lOeH4Uic8WTs0LG2IzezW/8JHOPvRBA=="/>
-        </item>
-        <item>
-            <title>1.1.34</title>
-            <pubDate>Fri, 30 Oct 2026 11:08:45 -0400</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>1.1.34</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.34 — Video, done properly</h3>
-<ul>
-<li><b>Picture in picture that works.</b> Float any video with the button by the address, or ⌃⌘P, and it stays with you. Leave a playing tab and it floats on its own; come back and it lands in the page.</li>
-<li><b>Full screen that works.</b> Sites' own full screen buttons now do what they say, and ⌥⌘F takes the page's video full screen from anywhere.</li>
-<li><b>Video controls.</b> Site settings has picture in picture, full screen and playback speed when a page has a video. Embedded players count too.</li>
-<li><b>A bar above the page.</b> With the address on top, the bar takes the site's color and the site starts below it, so nothing is covered. It slides up as you scroll down.</li>
-<li><b>The address bar opens in place.</b> Click it and that same bar expands, with no second one appearing.</li>
-<li><b>A new swipe.</b> Two fingers sideways bring in a glass circle with an arrow that follows you until it's ready to go back or forward.</li>
-<li><b>New tab means the New Tab page.</b> Add Tab opens the page, not a pop-out.</li>
-<li><b>Dark glass What's New.</b> This window, in dark Liquid Glass.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.34/Pane-1.1.34.zip" length="4906013" type="application/octet-stream" sparkle:edSignature="ze1BNarn0odlmdDRYj+uFqUQ2x84ARI3jmHZqGP9cny8dbNxvornV1UQHxU1uNi19P+Z8VmWNr6OCie00FhIAA=="/>
         </item>
     </channel>
 </rss>
