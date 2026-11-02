@@ -3,6 +3,22 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.40</title>
+            <pubDate>Mon, 02 Nov 2026 11:12:39 -0500</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>1.1.40</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.40 — Ask looks things up</h3>
+<ul>
+<li><b>Ask searches the web.</b> Questions the page can't answer — service times, opening hours, addresses, prices — are looked up on the web and the site's other pages, with sources you can open.</li>
+<li><b>No more dead ends.</b> If the page doesn't say, Pane searches instead of stopping there, and follow-ups keep track of what you were asking about.</li>
+<li><b>Cleaner answers.</b> No more stray "untrusted" markers or asterisks in replies.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.40/Pane-1.1.40.zip" length="4958836" type="application/octet-stream" sparkle:edSignature="goHPYJfaeiuIdg73QEJmByNoi155PqpkXCDdd05uqzd2K/+WKz7tny4r4J1ZbJ4iuudx8eXvcTwBe19hHo//CA=="/>
+        </item>
+        <item>
             <title>1.1.39</title>
             <pubDate>Mon, 02 Nov 2026 10:58:21 -0500</pubDate>
             <sparkle:version>51</sparkle:version>
@@ -32,25 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.38/Pane-1.1.38.zip" length="4943622" type="application/octet-stream" sparkle:edSignature="X7/VdhDD69N3Rvkcwis9Ex9/QvCq9aTLa3J3vCqzTVzzAENISPxyY5EHZxV8F9kGHJMMlXYJsc0i36h4qaidBA=="/>
-        </item>
-        <item>
-            <title>1.1.37</title>
-            <pubDate>Mon, 02 Nov 2026 10:21:25 -0500</pubDate>
-            <sparkle:version>49</sparkle:version>
-            <sparkle:shortVersionString>1.1.37</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.37 — A real browser</h3>
-<ul>
-<li><b>Sign in with Google, Apple and more.</b> Sign-in popups now open in their own small window, linked to the site that opened them, so the login comes back to the page and the popup closes itself.</li>
-<li><b>Page dialogs and uploads.</b> Sites' alerts, confirmations and questions now show up, and “Choose File” buttons open the file picker.</li>
-<li><b>Drag and drop.</b> Drop links or files on the sidebar to open them in new tabs, or on a new tab to open them there. PDFs, pictures and saved pages open right in Pane.</li>
-<li><b>Print.</b> ⌘P prints the page.</li>
-<li><b>Sites that ask for a password</b> now show a sign-in sheet instead of failing.</li>
-<li><b>Camera, microphone and location.</b> Video calls, voice messages and maps can ask to use them, as in Safari.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.37/Pane-1.1.37.zip" length="4941198" type="application/octet-stream" sparkle:edSignature="tH1jCxmTXe/kNL2WKG6aNyaP0/UY+TxcOk/COUK9JTDcXsGg7naBuAYhksCC1Rvg48LOBr7TA7NPVGPCWjbcCw=="/>
         </item>
     </channel>
 </rss>
