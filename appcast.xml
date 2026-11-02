@@ -3,6 +3,21 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.38</title>
+            <pubDate>Mon, 02 Nov 2026 10:38:57 -0500</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>1.1.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.38 — Ask with ⌘E</h3>
+<ul>
+<li><b>⌘E opens Ask.</b> The panel for asking about the page you're reading now opens and closes with ⌘E (it was ⌘J).</li>
+<li><b>A smoother Ask panel.</b> The panel now slides over the page instead of squeezing it on every frame, so it opens and closes without stutter.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.38/Pane-1.1.38.zip" length="4943622" type="application/octet-stream" sparkle:edSignature="X7/VdhDD69N3Rvkcwis9Ex9/QvCq9aTLa3J3vCqzTVzzAENISPxyY5EHZxV8F9kGHJMMlXYJsc0i36h4qaidBA=="/>
+        </item>
+        <item>
             <title>1.1.37</title>
             <pubDate>Mon, 02 Nov 2026 10:21:25 -0500</pubDate>
             <sparkle:version>49</sparkle:version>
@@ -35,24 +50,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.36/Pane-1.1.36.zip" length="4913932" type="application/octet-stream" sparkle:edSignature="fMlJnExVV8hzkn8gALEai3y0a7UBAsLtlLXmNVt17C+4yJW/Xt7KDPCGKZMkbqzmvCSUl5/ip8gbojMhT4pKBw=="/>
-        </item>
-        <item>
-            <title>1.1.35</title>
-            <pubDate>Fri, 30 Oct 2026 12:19:34 -0400</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>1.1.35</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.35 — Lighter and smoother</h3>
-<ul>
-<li><b>Much less memory.</b> Only your current tab and the one before it stay ready. Others sleep, and they sleep sooner, so a handful of busy sites takes about half the memory it did.</li>
-<li><b>Tabs wake where you left them.</b> A sleeping tab comes back at the same spot with its Back history, showing a picture of the page until it's ready.</li>
-<li><b>Gives memory back.</b> When your Mac runs short, tabs out of view go to sleep right away. Tabs playing video or in a call stay awake.</li>
-<li><b>Quiet when idle.</b> The New Tab page no longer works in the background, so Pane uses almost no power when you're not using it.</li>
-<li><b>A smoother sidebar.</b> The page keeps its size while the sidebar slides, so the slide stutters far less.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.35/Pane-1.1.35.zip" length="4915959" type="application/octet-stream" sparkle:edSignature="7cEwI5w4mGNpe6zQ0EmpU6lyiXWdGeH/s4xdQ0TyqftdM7uJHy5NNv5lOeH4Uic8WTs0LG2IzezW/8JHOPvRBA=="/>
         </item>
     </channel>
 </rss>
