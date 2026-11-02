@@ -3,6 +3,22 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.39</title>
+            <pubDate>Mon, 02 Nov 2026 10:58:21 -0500</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>1.1.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.39 — A lighter Ask</h3>
+<ul>
+<li><b>Ask no longer slows your Mac.</b> The glow and animations while Pane answers now take a fraction of the work, so the rest of your Mac stays quick while it writes.</li>
+<li><b>Answers start sooner.</b> The on-device model starts loading the moment you open the panel.</li>
+<li><b>Smoother text.</b> Answers flow in without the stutter on long replies.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.39/Pane-1.1.39.zip" length="4949748" type="application/octet-stream" sparkle:edSignature="BpMSO2C5mqT8MEB4PZT+yhn6DIDXXnaR2yTRtdkGYTtI8O9XMf1nwfZegWie49jMW238aetoZeEuCaGBngaqAQ=="/>
+        </item>
+        <item>
             <title>1.1.38</title>
             <pubDate>Mon, 02 Nov 2026 10:38:57 -0500</pubDate>
             <sparkle:version>50</sparkle:version>
@@ -35,21 +51,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.37/Pane-1.1.37.zip" length="4941198" type="application/octet-stream" sparkle:edSignature="tH1jCxmTXe/kNL2WKG6aNyaP0/UY+TxcOk/COUK9JTDcXsGg7naBuAYhksCC1Rvg48LOBr7TA7NPVGPCWjbcCw=="/>
-        </item>
-        <item>
-            <title>1.1.36</title>
-            <pubDate>Fri, 30 Oct 2026 13:37:54 -0400</pubDate>
-            <sparkle:version>48</sparkle:version>
-            <sparkle:shortVersionString>1.1.36</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.36 — Tabs stay awake, swipe flipped</h3>
-<ul>
-<li><b>Tabs stay awake when you leave them.</b> 1.1.35 put tabs to sleep too soon. Now a tab sleeps only after you've been away for the time set in Settings › Tabs, or when your Mac is really short of memory. Recent tabs switch instantly again, so memory stays higher until tabs start to sleep.</li>
-<li><b>Swipe direction flipped.</b> Two fingers right now goes forward and two fingers left goes back. The glass arrow moves with your fingers.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.36/Pane-1.1.36.zip" length="4913932" type="application/octet-stream" sparkle:edSignature="fMlJnExVV8hzkn8gALEai3y0a7UBAsLtlLXmNVt17C+4yJW/Xt7KDPCGKZMkbqzmvCSUl5/ip8gbojMhT4pKBw=="/>
         </item>
     </channel>
 </rss>
