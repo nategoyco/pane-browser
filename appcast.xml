@@ -3,6 +3,22 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.43</title>
+            <pubDate>Mon, 02 Nov 2026 16:12:37 -0500</pubDate>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>1.1.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.43 — Calmer glass</h3>
+<ul>
+<li><b>Real glass, not so bright.</b> The address and buttons above the page are shaded Liquid Glass that takes on the page behind it without glaring.</li>
+<li><b>No white strip.</b> Settings and the New Tab page get a bar that matches them in dark mode.</li>
+<li><b>A softer arrival.</b> Close the sidebar and the bar fades into focus, drifting in from the side, instead of dropping down from the top.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.43/Pane-1.1.43.zip" length="4987072" type="application/octet-stream" sparkle:edSignature="vG88lJXZU5w3uTZJCe+BGGeDe0N/EEgwwmP96VcwY7A4/K2oPUkynRsEFau5bxrIuM8J19xAccO9XPv8SQ/4Aw=="/>
+        </item>
+        <item>
             <title>1.1.42</title>
             <pubDate>Mon, 02 Nov 2026 16:04:16 -0500</pubDate>
             <sparkle:version>54</sparkle:version>
@@ -32,22 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.41/Pane-1.1.41.zip" length="4941451" type="application/octet-stream" sparkle:edSignature="CiZs4JMKltXEruhzSSYnnShsNboG1OY7f+ngAppJs0avVq/qwARRm5Csp5Ar1BRFn8GVlpQGybqpeY9K136SBQ=="/>
-        </item>
-        <item>
-            <title>1.1.40</title>
-            <pubDate>Mon, 02 Nov 2026 11:12:39 -0500</pubDate>
-            <sparkle:version>52</sparkle:version>
-            <sparkle:shortVersionString>1.1.40</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.40 — Ask looks things up</h3>
-<ul>
-<li><b>Ask searches the web.</b> Questions the page can't answer — service times, opening hours, addresses, prices — are looked up on the web and the site's other pages, with sources you can open.</li>
-<li><b>No more dead ends.</b> If the page doesn't say, Pane searches instead of stopping there, and follow-ups keep track of what you were asking about.</li>
-<li><b>Cleaner answers.</b> No more stray "untrusted" markers or asterisks in replies.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.40/Pane-1.1.40.zip" length="4958836" type="application/octet-stream" sparkle:edSignature="goHPYJfaeiuIdg73QEJmByNoi155PqpkXCDdd05uqzd2K/+WKz7tny4r4J1ZbJ4iuudx8eXvcTwBe19hHo//CA=="/>
         </item>
     </channel>
 </rss>
