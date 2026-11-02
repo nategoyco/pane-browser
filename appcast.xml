@@ -3,6 +3,21 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.41</title>
+            <pubDate>Mon, 02 Nov 2026 13:22:30 -0500</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>1.1.41</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.41 — Ask is off for now</h3>
+<ul>
+<li><b>Ask is switched off.</b> The Ask panel, ⌘E and asking from a new tab are off while Ask is being reworked. It'll come back once it's ready.</li>
+<li><b>Everything else is the same.</b> Typing in a new tab searches or opens sites as usual.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.41/Pane-1.1.41.zip" length="4941451" type="application/octet-stream" sparkle:edSignature="CiZs4JMKltXEruhzSSYnnShsNboG1OY7f+ngAppJs0avVq/qwARRm5Csp5Ar1BRFn8GVlpQGybqpeY9K136SBQ=="/>
+        </item>
+        <item>
             <title>1.1.40</title>
             <pubDate>Mon, 02 Nov 2026 11:12:39 -0500</pubDate>
             <sparkle:version>52</sparkle:version>
@@ -33,21 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.39/Pane-1.1.39.zip" length="4949748" type="application/octet-stream" sparkle:edSignature="BpMSO2C5mqT8MEB4PZT+yhn6DIDXXnaR2yTRtdkGYTtI8O9XMf1nwfZegWie49jMW238aetoZeEuCaGBngaqAQ=="/>
-        </item>
-        <item>
-            <title>1.1.38</title>
-            <pubDate>Mon, 02 Nov 2026 10:38:57 -0500</pubDate>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>1.1.38</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.38 — Ask with ⌘E</h3>
-<ul>
-<li><b>⌘E opens Ask.</b> The panel for asking about the page you're reading now opens and closes with ⌘E (it was ⌘J).</li>
-<li><b>A smoother Ask panel.</b> The panel now slides over the page instead of squeezing it on every frame, so it opens and closes without stutter.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.38/Pane-1.1.38.zip" length="4943622" type="application/octet-stream" sparkle:edSignature="X7/VdhDD69N3Rvkcwis9Ex9/QvCq9aTLa3J3vCqzTVzzAENISPxyY5EHZxV8F9kGHJMMlXYJsc0i36h4qaidBA=="/>
         </item>
     </channel>
 </rss>
