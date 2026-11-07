@@ -3,6 +3,22 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.45</title>
+            <pubDate>Sat, 07 Nov 2026 10:58:01 -0500</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>1.1.45</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.45 — Tabs, your way</h3>
+<ul>
+<li><b>New tabs as a bar.</b> Settings › Tabs › New tab: choose Bar and ⌘T opens the command bar over the page you're on, like Arc. A tab is only made when you pick a result; Escape leaves nothing behind.</li>
+<li><b>Clear glass.</b> The command bar lost its color wash. It's frosted glass now, so the page shows through, blurred.</li>
+<li><b>A tab switcher.</b> Hold ⌃ and press Tab to flip through your tabs as cards with live previews, then let go to switch.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.45/Pane-1.1.45.zip" length="4929016" type="application/octet-stream" sparkle:edSignature="iLh+3+Ae0kLlBYq2ixJ0kBaxQqSnMz8GsiQp+7KDJWvwkRwC5GxquykUO0AYLsrvrjv0jzTvqMVriTGC3q3aBQ=="/>
+        </item>
+        <item>
             <title>1.1.44</title>
             <pubDate>Fri, 06 Nov 2026 20:20:58 -0500</pubDate>
             <sparkle:version>56</sparkle:version>
@@ -33,22 +49,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.43/Pane-1.1.43.zip" length="4987072" type="application/octet-stream" sparkle:edSignature="vG88lJXZU5w3uTZJCe+BGGeDe0N/EEgwwmP96VcwY7A4/K2oPUkynRsEFau5bxrIuM8J19xAccO9XPv8SQ/4Aw=="/>
-        </item>
-        <item>
-            <title>1.1.42</title>
-            <pubDate>Mon, 02 Nov 2026 16:04:16 -0500</pubDate>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>1.1.42</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.42 — Meet calls float</h3>
-<ul>
-<li><b>Your call, in the corner.</b> Switch away from a Google Meet call (or press ⌃⌘P) and the whole call floats in a small window that stays on top, live, on every desktop.</li>
-<li><b>Controls right there.</b> Hover it to mute, turn your camera off, raise your hand or leave. Drag the top edge to move it, the edges to resize.</li>
-<li><b>Back in one click.</b> The button in the corner, or the call's tab, puts it back where it was. Leaving the call does too.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.42/Pane-1.1.42.zip" length="4984854" type="application/octet-stream" sparkle:edSignature="ms0vlqtOgXBrYy9Hb8OKVEfPJsJrLDDpU1nGcnm4j4nSiCrpleNKa3sGegIlVJteHS7Qhh5wt7gG+AdpDx1vCg=="/>
         </item>
     </channel>
 </rss>
