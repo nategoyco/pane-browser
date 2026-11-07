@@ -3,6 +3,22 @@
     <channel>
         <title>Pane</title>
         <item>
+            <title>1.1.44</title>
+            <pubDate>Fri, 06 Nov 2026 20:20:58 -0500</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>1.1.44</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>1.1.44 — A new look</h3>
+<ul>
+<li><b>A new command bar.</b> ⌘L brings up a sheet of milky glass over the page, like Spotlight, with one-line results, a round go button and a soft wash of color along the bottom.</li>
+<li><b>Controls in the sidebar.</b> Back, reload and the address now sit at the top of the sidebar, and the page fills the rest of the window. Settings › Appearance moves them back onto the page if you prefer.</li>
+<li><b>A quieter New Tab.</b> One white search box in the middle of the page, with a mic for dictation.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.44/Pane-1.1.44.zip" length="4942432" type="application/octet-stream" sparkle:edSignature="xnBHaVl1tTLUgYxn0hai3Y01Nr/leZONlJS4Z+91FRl9dxkOFHATNA+QVqT/kziPqiGz0YxrrqgMg7mcUUawBg=="/>
+        </item>
+        <item>
             <title>1.1.43</title>
             <pubDate>Mon, 02 Nov 2026 16:12:37 -0500</pubDate>
             <sparkle:version>55</sparkle:version>
@@ -33,21 +49,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.42/Pane-1.1.42.zip" length="4984854" type="application/octet-stream" sparkle:edSignature="ms0vlqtOgXBrYy9Hb8OKVEfPJsJrLDDpU1nGcnm4j4nSiCrpleNKa3sGegIlVJteHS7Qhh5wt7gG+AdpDx1vCg=="/>
-        </item>
-        <item>
-            <title>1.1.41</title>
-            <pubDate>Mon, 02 Nov 2026 13:22:30 -0500</pubDate>
-            <sparkle:version>53</sparkle:version>
-            <sparkle:shortVersionString>1.1.41</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>1.1.41 — Ask is off for now</h3>
-<ul>
-<li><b>Ask is switched off.</b> The Ask panel, ⌘E and asking from a new tab are off while Ask is being reworked. It'll come back once it's ready.</li>
-<li><b>Everything else is the same.</b> Typing in a new tab searches or opens sites as usual.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/nategoyco/pane-browser/releases/download/v1.1.41/Pane-1.1.41.zip" length="4941451" type="application/octet-stream" sparkle:edSignature="CiZs4JMKltXEruhzSSYnnShsNboG1OY7f+ngAppJs0avVq/qwARRm5Csp5Ar1BRFn8GVlpQGybqpeY9K136SBQ=="/>
         </item>
     </channel>
 </rss>
